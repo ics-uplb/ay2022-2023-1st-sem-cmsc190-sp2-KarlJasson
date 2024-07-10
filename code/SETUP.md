@@ -1,19 +1,10 @@
 # Development Set-up
 ## Prerequisites
-* interpreter
-* package manager 1
-* test files (file1, file2)
-* Android phone
-* IDE used, etc
+* Java SDK (version 11 or newer)
+* Eclipse IDE for Java
 ## Instructions
-1. Install `interpeter` from link
-2. Run the following command to install other packages:
+1. Make sure a Java SDK is installed in yout machine. A Java SDK can be downloaded from the following link:
 ```
-interpreter install package_manager
-package_manager -i packages
+https://www.oracle.com/ph/java/technologies/downloads/
 ```
-3. Run the following command to use the program:
-```
-myprogram file1 file2
-```
-4. A binary file can also be downloaded from this link which can be used by any device.
+2. Both the Scheduler and Simulator are runnable .jar files, so they are can be opened without need for further setup.
