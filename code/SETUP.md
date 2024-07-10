@@ -7,4 +7,4 @@
 ```
 https://www.oracle.com/ph/java/technologies/downloads/
 ```
-2. Both the Scheduler and Simulator are runnable .jar files, so they are can be opened without need for further setup.
+2. Both the Scheduler and Simulator are runnable .jar files, so they should run without need for further setup.
