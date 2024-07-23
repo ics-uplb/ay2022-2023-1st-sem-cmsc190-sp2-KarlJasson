@@ -1,0 +1,164 @@
+@article{kockesen2007introduction,
+  title={An introduction to game theory},
+  author={Kockesen, Levent and Ok, Efe A},
+  journal={Koc University, New York University},
+  volume={8},
+  year={2007}
+}
+
+@inproceedings{abbasi2015human,
+  title={Human adversaries in opportunistic crime security games: Evaluating competing bounded rationality models},
+  author={Abbasi, Yasaman Dehghani and Short, Martin and Sinha, Arunesh and Sintov, Nicole and Zhang, Chao and Tambe, Milind},
+  booktitle={Proceedings of the third annual conference on advances in cognitive systems ACS},
+  pages={2},
+  year={2015}
+}
+
+@article{sinha1human,
+  title={Human Adversaries in Opportunistic Crime Security Games: How Past success (or failure) affects future behavior},
+  author={Sinha, Yasaman Dehghani Abbasi Arunesh and Short, Martin and Tambe, Nicole Sintov Chao Zhang Milind},
+  journal={equilibrium},
+  volume={1},
+  pages={1}
+}
+
+@article{taylor2010framework,
+  title={A framework for evaluating deployed security systems: is there a chink in your ARMOR?},
+  author={Taylor, Matthew E and Kiekintveld, Christopher and Western, Craig and Tambe, Milind},
+  journal={Informatica},
+  volume={34},
+  number={2},
+  year={2010}
+}
+
+@article{fang2017paws,
+  title={PAWS—A deployed game-theoretic application to combat poaching},
+  author={Fang, Fei and Nguyen, Thanh H and Pickles, Rob and Lam, Wai Y and Clements, Gopalasamy R and An, Bo and Singh, Amandeep and Schwedock, Brian C and Tambe, Milin and Lemieux, Andrew},
+  journal={AI Magazine},
+  volume={38},
+  number={1},
+  pages={23--36},
+  year={2017}
+}
+
+@inproceedings{fang2016deploying,
+  title={Deploying PAWS: Field optimization of the protection assistant for wildlife security},
+  author={Fang, Fei and Nguyen, Thanh H and Pickles, Rob and Lam, Wai Y and Clements, Gopalasamy R and An, Bo and Singh, Amandeep and Tambe, Milind and Lemieux, Andrew},
+  booktitle={Twenty-eighth IAAI conference},
+  year={2016}
+}
+
+@inproceedings{zhang2014defending,
+  title={Defending against opportunistic criminals: New game-theoretic frameworks and algorithms},
+  author={Zhang, Chao and Jiang, Albert Xin and Short, Martin B and Brantingham, P Jeffrey and Tambe, Milind},
+  booktitle={International Conference on Decision and Game Theory for Security},
+  pages={3--22},
+  year={2014},
+  organization={Springer}
+}
+
+@book{paruchuri2007keep,
+  title={Keep the adversary guessing: Agent security by policy randomization},
+  author={Paruchuri, Praveen},
+  year={2007},
+  publisher={University of Southern California}
+}
+
+@article{zhang2016keeping,
+  title={Keeping pace with criminals: An extended study of designing patrol allocation against adaptive opportunistic criminals},
+  author={Zhang, Chao and Gholami, Shahrzad and Kar, Debarun and Sinha, Arunesh and Jain, Manish and Goyal, Ripple and Tambe, Milind},
+  journal={Games},
+  volume={7},
+  number={3},
+  pages={15},
+  year={2016},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@phdthesis{zhang2016opportunistic,
+  title={Opportunistic Crime Security Games: Assisting Police to Control Urban Crime Using Real World Data},
+  author={Zhang, Chao},
+  year={2016},
+  school={University of Southern California}
+}
+
+@article{felson1998opportunity,
+  title={Opportunity makes the thief},
+  author={Felson, Marcus and Clarke, Ronald V},
+  journal={Police research series, paper},
+  volume={98},
+  number={1-36},
+  pages={10},
+  year={1998}
+}
+
+@inproceedings{delle2014security,
+  title={Security games in the field: Deployments on a transit system},
+  author={Delle Fave, Francesco M and Brown, Matthew and Zhang, Chao and Shieh, Eric and Jiang, Albert Xin and Rosoff, Heather and Tambe, Milind and Sullivan, John P},
+  booktitle={International workshop on engineering multi-agent systems},
+  pages={103--126},
+  year={2014},
+  organization={Springer}
+}
+
+@book{yin2013addressing,
+  title={Addressing uncertainty in Stackelberg games for security: Models and algorithms},
+  author={Yin, Zhengyu},
+  year={2013},
+  publisher={University of Southern California}
+}
+
+@inproceedings{pita2009effective,
+  title={Effective solutions for real-world stackelberg games: When agents must deal with human uncertainties},
+  author={Pita, James and Jain, Manish and Ord{\'o}{\~n}ez, Fernando and Tambe, Milind and Kraus, Sarit and Magori-Cohen, Reuma},
+  booktitle={Proceedings of The 8th International Conference on Autonomous Agents and Multiagent Systems-Volume 1},
+  pages={369--376},
+  year={2009},
+  organization={Citeseer}
+}
+
+@inproceedings{pita2011guards,
+  title={GUARDS: game theoretic security allocation on a national scale.},
+  author={Pita, James and Tambe, Milind and Kiekintveld, Christopher and Cullen, Shane and Steigerwald, Erin},
+  booktitle={AAMAS},
+  volume={11},
+  pages={267--290},
+  year={2011}
+}
+
+@article{tsai2009iris,
+  title={IRIS-a tool for strategic security allocation in transportation networks},
+  author={Tsai, Jason and Rathi, Shyamsunder and Kiekintveld, Christopher and Ordonez, Fernando and Tambe, Milind},
+  journal={AAMAS (Industry Track)},
+  pages={37--44},
+  year={2009}
+}
+
+@article{tambe2009game,
+  title={A Game Theoretic Approach for Allocation of Limited Security Resources},
+  author={Tambe, Milind and Ordonez, Fernando},
+  year={2009}
+}
+
+@article{an2017stackelberg,
+  title={Stackelberg security games (SSG): Basics and application overview},
+  author={An, Bo and Tambe, Milind and Sinha, Arunesh},
+  journal={Improving Homeland Security Decisions},
+  pages={485},
+  year={2017},
+  publisher={Cambridge University Press Cambridge}
+}
+
+@article{kar2017trends,
+  title={Trends and applications in Stackelberg security games},
+  author={Kar, Debarun and Nguyen, Thanh H and Fang, Fei and Brown, Matthew and Sinha, Arunesh and Tambe, Milind and Jiang, Albert Xin},
+  journal={Handbook of Dynamic Game Theory},
+  pages={1--47},
+  year={2017},
+  publisher={Springer International Publishing}
+}
+
+@article{krausarmor,
+  title={ARMOR Software: A Game Theoretic Approach for Airport Security James Pita, Manish Jain, Fernando Ord{\'o}{\~n}ez, Christopher Portway, Milind Tambe, Craig Western University of Southern California, Los Angeles, CA 90089 Praveen Paruchuri Intelligent Automation, Inc., Rockville, MD 20855},
+  author={Kraus, Sarit}
+}

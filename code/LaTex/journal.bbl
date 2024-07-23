@@ -1,0 +1,106 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{kockesen2007introduction}
+L.~Kockesen and E.~A. Ok, ``An introduction to game theory,'' \emph{Koc
+  University, New York University}, vol.~8, 2007.
+
+\bibitem{kar2017trends}
+D.~Kar, T.~H. Nguyen, F.~Fang, M.~Brown, A.~Sinha, M.~Tambe, and A.~X. Jiang,
+  ``Trends and applications in stackelberg security games,'' \emph{Handbook of
+  Dynamic Game Theory}, pp. 1--47, 2017.
+
+\bibitem{an2017stackelberg}
+B.~An, M.~Tambe, and A.~Sinha, ``Stackelberg security games (ssg): Basics and
+  application overview,'' \emph{Improving Homeland Security Decisions}, p. 485,
+  2017.
+
+\bibitem{krausarmor}
+S.~Kraus, ``Armor software: A game theoretic approach for airport security
+  james pita, manish jain, fernando ord{\'o}{\~n}ez, christopher portway,
+  milind tambe, craig western university of southern california, los angeles,
+  ca 90089 praveen paruchuri intelligent automation, inc., rockville, md
+  20855.''
+
+\bibitem{fang2017paws}
+F.~Fang, T.~H. Nguyen, R.~Pickles, W.~Y. Lam, G.~R. Clements, B.~An, A.~Singh,
+  B.~C. Schwedock, M.~Tambe, and A.~Lemieux, ``Paws—a deployed game-theoretic
+  application to combat poaching,'' \emph{AI Magazine}, vol.~38, no.~1, pp.
+  23--36, 2017.
+
+\bibitem{zhang2016opportunistic}
+C.~Zhang, ``Opportunistic crime security games: Assisting police to control
+  urban crime using real world data,'' Ph.D. dissertation, University of
+  Southern California, 2016.
+
+\bibitem{zhang2016keeping}
+C.~Zhang, S.~Gholami, D.~Kar, A.~Sinha, M.~Jain, R.~Goyal, and M.~Tambe,
+  ``Keeping pace with criminals: An extended study of designing patrol
+  allocation against adaptive opportunistic criminals,'' \emph{Games}, vol.~7,
+  no.~3, p.~15, 2016.
+
+\bibitem{felson1998opportunity}
+M.~Felson and R.~V. Clarke, ``Opportunity makes the thief,'' \emph{Police
+  research series, paper}, vol.~98, no. 1-36, p.~10, 1998.
+
+\bibitem{paruchuri2007keep}
+P.~Paruchuri, \emph{Keep the adversary guessing: Agent security by policy
+  randomization}.\hskip 1em plus 0.5em minus 0.4em\relax University of Southern
+  California, 2007.
+
+\bibitem{tsai2009iris}
+J.~Tsai, S.~Rathi, C.~Kiekintveld, F.~Ordonez, and M.~Tambe, ``Iris-a tool for
+  strategic security allocation in transportation networks,'' \emph{AAMAS
+  (Industry Track)}, pp. 37--44, 2009.
+
+\bibitem{pita2011guards}
+J.~Pita, M.~Tambe, C.~Kiekintveld, S.~Cullen, and E.~Steigerwald, ``Guards:
+  game theoretic security allocation on a national scale.'' in \emph{AAMAS},
+  vol.~11, 2011, pp. 267--290.
+
+\bibitem{yin2013addressing}
+Z.~Yin, \emph{Addressing uncertainty in Stackelberg games for security: Models
+  and algorithms}.\hskip 1em plus 0.5em minus 0.4em\relax University of
+  Southern California, 2013.
+
+\bibitem{pita2009effective}
+J.~Pita, M.~Jain, F.~Ord{\'o}{\~n}ez, M.~Tambe, S.~Kraus, and R.~Magori-Cohen,
+  ``Effective solutions for real-world stackelberg games: When agents must deal
+  with human uncertainties,'' in \emph{Proceedings of The 8th International
+  Conference on Autonomous Agents and Multiagent Systems-Volume 1}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Citeseer, 2009, pp. 369--376.
+
+\bibitem{abbasi2015human}
+Y.~D. Abbasi, M.~Short, A.~Sinha, N.~Sintov, C.~Zhang, and M.~Tambe, ``Human
+  adversaries in opportunistic crime security games: Evaluating competing
+  bounded rationality models,'' in \emph{Proceedings of the third annual
+  conference on advances in cognitive systems ACS}, 2015, p.~2.
+
+\bibitem{sinha1human}
+Y.~D. A.~A. Sinha, M.~Short, and N.~S. C. Z.~M. Tambe, ``Human adversaries in
+  opportunistic crime security games: How past success (or failure) affects
+  future behavior,'' \emph{equilibrium}, vol.~1, p.~1.
+
+\bibitem{taylor2010framework}
+M.~E. Taylor, C.~Kiekintveld, C.~Western, and M.~Tambe, ``A framework for
+  evaluating deployed security systems: is there a chink in your armor?''
+  \emph{Informatica}, vol.~34, no.~2, 2010.
+
+\end{thebibliography}
